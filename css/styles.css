@@ -3373,7 +3373,6 @@ td:last-child {
 @media screen and (max-width: 900px) {
 	.s-header {
 		--logo-width: 10rem;
-		top         : var(--vspace-0_25);
 	}
 
 	.s-header__inner {
